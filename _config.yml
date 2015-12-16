@@ -1,0 +1,28 @@
+name: Photography By Anne Bussell
+favicon: null
+layout_spectrum: 0.7307032621465623
+typography_spectrum: 0.24857152462936938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2443013251759112
+  lightness: 0.03919470519758761
+  saturation: 0.08777013211511075
+  rhythmicContrast: 0.8057276443578303
+purpose: []
