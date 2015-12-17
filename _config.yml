@@ -1,7 +1,7 @@
 name: Photography By Anne Bussell
 favicon: null
 layout_spectrum: 0.99509
-typography_spectrum: 0.75147
+typography_spectrum: 0
 title: Photography By Anne Bussell
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0e0c0d'
-    - '#034843'
-    - '#c89e86'
-    - '#8e7267'
-    - '#9c1e22'
-  brandStrength: 0.2443013251759112
-  lightness: 0.03919470519758761
-  saturation: 0.08777013211511075
-  rhythmicContrast: 0.8057276443578303
+    - '#fefefe'
+    - '#ceb9e6'
+    - '#61826c'
+    - '#a78fb8'
+    - '#9eca6d'
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
