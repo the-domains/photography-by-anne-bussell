@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T02:20:36.618Z'
-dateModified: '2015-12-16T21:14:20.165Z'
+datePublished: '2015-12-17T02:25:27.564Z'
+dateModified: '2015-12-17T02:25:16.752Z'
 title: Welcome to my photography website.
 author: []
 sourcePath: _posts/2015-12-16-photography-by-anne-bussell.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: welcome-to-my-photography-website/index.html
+_type: Article
 
 ---
 # **[Welcome to my photography website.][0]**
