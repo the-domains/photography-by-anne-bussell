@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photography By Anne Bussell]]></title>
+        <description><![CDATA[Photography By Anne Bussell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 08:12:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portraits of a BBQ - New Breed Community Center]]></title>
+            <description><![CDATA[<article><h1>Portraits of a BBQ - New Breed Community Center</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39bc97529e23bdae6922dc51bba702ac35408bcc.jpg"></article>]]></description>
+            <link>undefinedportraits-of-a-bbq-new-breed-community-center/index.html</link>
+            <guid isPermaLink="false">5ae25b66-4304-4088-8246-d975b8cc9ff8</guid>
+            <pubDate>Thu, 24 Dec 2015 08:12:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
