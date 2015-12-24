@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T08:12:49.635Z'
-dateModified: '2015-12-24T08:12:36.023Z'
+datePublished: '2015-12-24T08:17:10.394Z'
+dateModified: '2015-12-24T08:17:01.527Z'
 title: Portraits of a BBQ - New Breed Community Center
 author: []
 sourcePath: _posts/2015-12-22-portraits-of-a-bbq-new-breed-community-center.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: portraits-of-a-bbq-new-breed-community-center/index.html
-_type: Article
+_type: WebPage
 
 ---
 Portraits of a BBQ - New Breed Community Center
