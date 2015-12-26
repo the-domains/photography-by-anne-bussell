@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photography By Anne Bussell]]></title>
         <description><![CDATA[Photography By Anne Bussell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-by-anne-bussell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 22:12:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 22:12:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-by-anne-bussell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portraits of a BBQ - New Breed Community Center]]></title>
+            <description><![CDATA[<article><h1>Portraits of a BBQ - New Breed Community Center</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39bc97529e23bdae6922dc51bba702ac35408bcc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photography-by-anne-bussell/portraits-of-a-bbq-new-breed-community-center/index.html</link>
+            <guid isPermaLink="false">5ae25b66-4304-4088-8246-d975b8cc9ff8</guid>
+            <pubDate>Sat, 26 Dec 2015 22:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Memes]]></title>
-            <description><![CDATA[<article><h1>Memes</h1><p>Not my own but loving them</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe712bd47e736e9f4d8f8f849b62812829c709d4.jpg"></article>]]></description>
-            <link>undefinedmemes/index.html</link>
+            <description><![CDATA[<article><h1>Memes</h1><p>Not my own but loving them</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebd9188b84f100deb32b8c0eb7cb1876b23d1628.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photography-by-anne-bussell/memes/index.html</link>
             <guid isPermaLink="false">0848506e-4a8c-4412-8827-2daeab0b539c</guid>
             <pubDate>Sat, 26 Dec 2015 22:12:19 GMT</pubDate>
         </item>
